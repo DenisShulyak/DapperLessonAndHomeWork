@@ -1,0 +1,12 @@
+c:\users\шулякд\source\repos\Dl.ConsoleApp\Dl.Models\bin\Debug\Dl.Models.dll
+c:\users\шулякд\source\repos\Dl.ConsoleApp\Dl.Models\bin\Debug\Dl.Models.pdb
+c:\users\шулякд\source\repos\Dl.ConsoleApp\Dl.Models\obj\Debug\Dl.Models.csprojAssemblyReference.cache
+c:\users\шулякд\source\repos\Dl.ConsoleApp\Dl.Models\obj\Debug\Dl.Models.csproj.CoreCompileInputs.cache
+c:\users\шулякд\source\repos\Dl.ConsoleApp\Dl.Models\obj\Debug\Dl.Models.dll
+c:\users\шулякд\source\repos\Dl.ConsoleApp\Dl.Models\obj\Debug\Dl.Models.pdb
+C:\Users\User\source\repos\Dl.ConsoleApp\Dl.Models\bin\Debug\Dl.Models.dll
+C:\Users\User\source\repos\Dl.ConsoleApp\Dl.Models\bin\Debug\Dl.Models.pdb
+C:\Users\User\source\repos\Dl.ConsoleApp\Dl.Models\obj\Debug\Dl.Models.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Dl.ConsoleApp\Dl.Models\obj\Debug\Dl.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dl.ConsoleApp\Dl.Models\obj\Debug\Dl.Models.dll
+C:\Users\User\source\repos\Dl.ConsoleApp\Dl.Models\obj\Debug\Dl.Models.pdb
